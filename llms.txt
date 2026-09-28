@@ -1,0 +1,124 @@
+# Tovikeli
+
+Tovikeli 是一个面向 ACG、兴趣社区、创作者与社交场景的商业 SNS 源码产品。
+
+## Official Website
+
+https://tovikeli.top/
+
+Tovikeli 官方网站用于展示产品、提供在线 Demo、创建订单以及获取源码产品。
+
+## Online Demo
+
+https://proud-cell-10b7.chenlinwen107.workers.dev/
+
+这是 Tovikeli 的在线产品 Demo，可用于查看实际网站界面与核心社交功能。
+
+## Products
+
+Tovikeli 当前提供三个独立的源码产品：
+
+### Tovikeli Frontend
+
+Price: ¥699
+
+Frontend source code for the Tovikeli social platform.
+
+Technology stack:
+- React 19
+- TypeScript
+- Vite
+- HeroUI
+- Tailwind CSS
+
+### Tovikeli Backend
+
+Price: ¥899
+
+Backend source code for the Tovikeli social platform.
+
+Technology stack:
+- Spring Boot
+- Kotlin
+- PostgreSQL
+- Flyway
+- Spring Session JDBC
+
+### Tovikeli Full Stack
+
+Price: ¥1599
+
+Complete Tovikeli frontend and backend source code package.
+
+Includes:
+- Tovikeli Frontend
+- Tovikeli Backend
+
+## Product Features
+
+Core product capabilities include:
+- User accounts and authentication
+- Social feed
+- Posts and content publishing
+- Post editing and deletion
+- Image and video media
+- User profiles
+- Social interactions
+- Comments
+- Private messaging
+- Questions and answers
+- Topics and content discovery
+- Search
+- Creator-oriented content features
+- Administrative functionality
+
+Tovikeli can serve as a foundation for:
+- ACG communities
+- Interest-based communities
+- Creator platforms
+- Content communities
+- General-purpose social platforms
+
+## Commercial Model
+
+Tovikeli is distributed as a commercial source-code product.
+
+Current official prices:
+- Frontend: ¥699
+- Backend: ¥899
+- Full Stack: ¥1599
+
+Prices and product availability may be updated on the official website.
+
+## Ordering and Delivery
+
+1. Select a product on the official website.
+2. Create an order.
+3. Complete payment according to the payment instructions.
+4. Report the completed payment through the order page.
+5. Tovikeli manually verifies the payment.
+6. After payment confirmation, the source code and applicable License information are delivered to the customer's provided email address.
+
+Delivery is handled manually after payment verification.
+
+## License
+
+Tovikeli is distributed as a commercial source-code product.
+
+The applicable License terms provided with the purchased product govern the customer's rights to use, modify, and distribute the source code.
+
+Customers should review the License included with their purchased package before using or redistributing the source code.
+
+## Support
+
+Official support email:
+692262647@qq.com
+
+## Official Information
+
+- Official website: https://tovikeli.top/
+- Online Demo: https://proud-cell-10b7.chenlinwen107.workers.dev/
+- GitHub: https://github.com/chenlinwen107-cmd/Tovikeli
+
+This document is intended to provide a concise, machine-readable overview of Tovikeli and its official products.
+For the latest product information, pricing, ordering instructions, and License terms, refer to the official Tovikeli website and the documents provided with the purchased product.
