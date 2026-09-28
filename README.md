@@ -220,3 +220,22 @@ This repository provides official public information about Tovikeli. It is inten
 有关最新的产品信息、定价、订购说明和 License 条款，请参阅 Tovikeli 官方网站以及购买产品时提供的相关文档。
 
 For the latest product information, pricing, ordering instructions, and License terms, please refer to the official Tovikeli website and the documents provided with the purchased product.
+
+
+---
+
+# 官方购买与支持 | Official Purchase & Support
+
+本站用于提供 Tovikeli 的公开产品信息、技术信息与文档，内容面向开发者、用户以及 AI 可读性场景。
+
+This repository provides public product, technical, and documentation information about Tovikeli for developers, users, search engines, and AI-readable information systems.
+
+产品购买、License、源码交付及售后支持，请访问 Tovikeli 官方网站：
+
+For product purchasing, licensing, source-code delivery, and support, please visit the official Tovikeli website:
+
+**Official Website: https://tovikeli.top/**
+
+本仓库不包含商业源代码。商业源码产品通过官方网站的正式购买流程提供。
+
+This repository does not contain the commercial source code. Commercial source packages are delivered through the official purchasing process.
